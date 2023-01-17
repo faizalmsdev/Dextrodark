@@ -1,5 +1,5 @@
 - 👋 Hey,I'm Mohamed faizal
-- 👀 I’m interested in Web Developing
+- 👀 Skills -> HTML,CSS,JAVASCRIPT,REACT,{Bootstrap -> Learning}
 - 🌱 I’m currently learning B.E
 - 📫 How to reach me ...
 
