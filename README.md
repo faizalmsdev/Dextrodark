@@ -1,5 +1,5 @@
 - 👋 Hey,I'm Mohamed faizal
-- 👀 Skills -> HTML,CSS,JAVASCRIPT,REACT,{Bootstrap -> Learning}
+- 👀 Skills -> HTML,CSS,BOOTSTRAP,JAVASCRIPT,REACT,
 - 🌱 I’m currently learning B.E
 - 📫 How to reach me ...
 
